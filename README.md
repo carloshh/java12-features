@@ -3,4 +3,5 @@
 
 This repository contains just a couple of tests to check the new features introduced in Java 12 release
 - Switch expressions
+- Compact Number Formatting
 - New String methods
